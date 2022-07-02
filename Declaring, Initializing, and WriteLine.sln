@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Declaring, Initializing, and WriteLine", "Declaring, Initializing, and WriteLine\Declaring, Initializing, and WriteLine.csproj", "{EEC02BD7-30F3-4C52-95DD-B8178C6796CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC02BD7-30F3-4C52-95DD-B8178C6796CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC02BD7-30F3-4C52-95DD-B8178C6796CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC02BD7-30F3-4C52-95DD-B8178C6796CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC02BD7-30F3-4C52-95DD-B8178C6796CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE1F28F-F87B-49DB-8FF0-9A9BE3850CF6}
+	EndGlobalSection
+EndGlobal
